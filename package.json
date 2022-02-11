@@ -2,7 +2,6 @@
   "name": "demoreact",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://nirmal100102.github.io/reactlivewebsite",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.2",
     "@testing-library/react": "^12.1.2",
@@ -22,7 +21,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "eslintConfig": {
+  "e1slintConfig": {
     "extends": [
       "react-app",
       "react-app/jest"

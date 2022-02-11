@@ -1,5 +1,4 @@
 import React from "react";
-import { NavLink } from "react-router-dom";
 import web from "../src/images/img3.jpeg"
 import Common from "./Common";
 
